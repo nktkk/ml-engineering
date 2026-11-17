@@ -1,0 +1,14 @@
+# Данные качаются скриптами из scripts/ — в репозиторий не коммитим
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
